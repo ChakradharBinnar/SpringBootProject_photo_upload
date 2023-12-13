@@ -24,9 +24,4 @@ public class Images {
 	public void setImageName(String imageName) {
 		this.imageName = imageName;
 	}
-	
-	
-	
-	
-
 }
